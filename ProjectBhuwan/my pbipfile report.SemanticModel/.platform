@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Report",
-    "displayName": "18augtest"
+    "type": "SemanticModel",
+    "displayName": "my pbipfile report"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "8e20d0c9-3701-4343-a8bb-1119475d3e68"
+    "logicalId": "11a65b5e-74b2-8b9c-446f-f112a13e6f66"
   }
 }
